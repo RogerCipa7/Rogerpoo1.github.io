@@ -12,7 +12,7 @@ en el almacenamiento de los datos.
 - No se realiza validación, ni se verifica calidad en los datos ingresados
 
 ## Analisis de Ejercicio
-## **Historia de Usuario**
+- Historia de Usuario
 ![Texto alternativo](https://github.com/RogerCipa7/Rogerpoo1.github.io/blob/main/Historiausuario%20.jpg?raw=true)
 
 
