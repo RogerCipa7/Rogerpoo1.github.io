@@ -21,7 +21,7 @@ en el almacenamiento de los datos.
 ![Texto alternativo](https://github.com/RogerCipa7/Rogerpoo1.github.io/blob/main/poo1.png?raw=true)
 
 ## Diagrama de flujo
-![Texto alternativo]([https://github.com/RogerCipa7/Rogerpoo1.github.io/blob/main/Diagrama%20de%20flujo.png?raw=true](https://github.com/RogerCipa7/Rogerpoo1.github.io/blob/main/Imagenes/Diagrama%20de%20flujo.png?raw=true))
+![Texto alternativo](https://github.com/RogerCipa7/Rogerpoo1.github.io/blob/main/Imagenes/Diagrama%20de%20flujo.png)
 ##  pseudocódigo
 
 INICIO
