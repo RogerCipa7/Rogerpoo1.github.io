@@ -18,7 +18,7 @@ en el almacenamiento de los datos.
 
 ## Caso De uso
 - Descripcion Casos de uso
-![Texto alternativo](https://github.com/RogerCipa7/Rogerpoo1.github.io/blob/main/poo1.png?raw=true)
+![Texto alternativo]([https://github.com/RogerCipa7/Rogerpoo1.github.io/blob/main/poo1.png?raw=true](https://github.com/RogerCipa7/Rogerpoo1.github.io/blob/main/Imagenes/CasodeUso.png))
 
 ## Diagrama de flujo
 ![Texto alternativo](https://github.com/RogerCipa7/Rogerpoo1.github.io/blob/main/Imagenes/Diagrama%20de%20flujo.png)
