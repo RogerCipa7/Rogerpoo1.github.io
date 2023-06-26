@@ -13,7 +13,7 @@ en el almacenamiento de los datos.
 
 ## Analisis de Ejercicio
 - Historia de Usuario
-![Texto alternativo](https://github.com/RogerCipa7/Rogerpoo1.github.io/blob/main/Historiausuario%20.jpg?raw=true)
+![Texto alternativo](https://github.com/RogerCipa7/Rogerpoo1.github.io/blob/main/Imagenes/Historiausuario%20.jpg)
 
 
 ## Caso De uso
