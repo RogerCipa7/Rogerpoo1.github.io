@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Vendedor
+comment1.params=identificacion\ nombre\ ventasMes1\ ventasMes2\ ventasMes3
+comment1.target=Vendedor(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularPromedio()
+numComments=3

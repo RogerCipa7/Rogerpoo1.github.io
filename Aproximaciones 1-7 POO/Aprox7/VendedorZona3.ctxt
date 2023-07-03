@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=VendedorZona3
+comment1.params=identificacion\ nombre\ venta1\ venta2\ venta3\ venta4
+comment1.target=VendedorZona3(java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ double)
+comment10.params=venta4
+comment10.target=void\ setventa4(double)
+comment2.params=
+comment2.target=double\ promedio()
+comment3.params=
+comment3.target=double\ getventa1()
+comment4.params=venta1
+comment4.target=void\ setventa1(double)
+comment5.params=
+comment5.target=double\ getventa2()
+comment6.params=venta2
+comment6.target=void\ setventa2(double)
+comment7.params=
+comment7.target=double\ getventa3()
+comment8.params=venta3
+comment8.target=void\ setventa3(double)
+comment9.params=
+comment9.target=double\ getventa4()
+numComments=11

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Concesionario
+comment1.params=nit\ nombreSede\ direccion
+comment1.target=Concesionario(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=identificacion\ nombre\ sede\ venta1\ venta2\ venta3\ venta4
+comment10.target=void\ adicionarVendedor(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNit()
+comment3.params=
+comment3.target=java.lang.String\ getnombreSede()
+comment4.params=nombreSede
+comment4.target=void\ setnombreSede(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDireccion()
+comment6.params=direccion
+comment6.target=void\ setDireccion(java.lang.String)
+comment7.params=
+comment7.target=double\ calcularPromedioGeneral()
+comment8.params=identificacion\ nombre\ sede\ venta1\ venta2
+comment8.target=void\ adicionarVendedor(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment9.params=identificacion\ nombre\ sede\ venta1\ venta2\ venta3
+comment9.target=void\ adicionarVendedor(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+numComments=11
